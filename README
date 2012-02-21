@@ -1,0 +1,13 @@
+This is your new Play 2.0 application
+=====================================
+
+This file will be packaged with your application, when using `play dist`.
+
+
+Uses scribe library to connect to Facebook using OAuth.
+
+Please modify below config options in application.conf
+fb.app.id="XXXXXXXXXXXX"
+fb.app.secretkey="XXXXXXXXXXXXXX"
+fb.app.callback="http://www.testdomain.in/fbLogin/code"
+

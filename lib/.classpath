@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="commons/src/main/java"/>
+	<classpathentry kind="src" path="consumer/src/main/java"/>
+	<classpathentry kind="src" path="httpclient3/src/main/java"/>
+	<classpathentry exported="true" kind="lib" path="/home/pjarzebowski/code/oauth/oauth-read-only/java/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/pjarzebowski/code/oauth/oauth-read-only/java/lib/jetty-6.1.11.jar"/>
+	<classpathentry kind="lib" path="/home/pjarzebowski/code/android-sdk-linux_86/platforms/android-7/android.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
